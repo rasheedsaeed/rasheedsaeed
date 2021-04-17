@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rasheedsaeed
+- 👋 Hi, I’m @rasheedsaeed.
 - 👀 I’m interested in website development, scripts, and software design.
-- 🌱 I’m currently learning Dart.
-- 📫 How to reach me rasheedsaeed@protonmail.com
+- 🌱 I’m currently learning JavaScript. 
+- 📫 How to reach me rasheedsaeed@protonmail.com.
 
 <!---
 rasheedsaeed/rasheedsaeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
