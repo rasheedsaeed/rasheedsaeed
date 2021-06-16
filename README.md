@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasheedsaeed.
 - 👀 I’m interested in website development, scripts, and software design.
-- 🌱 I’m currently learning JavaScript. 
+- 🌱 I’m currently learning Angular. 
 - 📫 How to reach me rasheedsaeed@protonmail.com.
 
 <!---
