@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rasheedsaeed.
 - 👀 I’m interested in website development, scripts, and software design.
-- 🌱 I’m currently learning MySQL to become certified. 
+- 🌱 I’m currently editing this. 
 - 📫 How to reach me rasheedsaeed@protonmail.com.
 
 <!---
